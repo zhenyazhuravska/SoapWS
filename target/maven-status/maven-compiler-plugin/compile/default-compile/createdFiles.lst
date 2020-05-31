@@ -1,0 +1,8 @@
+com/lecture/db/DatabaseClass.class
+com/lecture/resource/LibraryResource.class
+com/lecture/client/Client.class
+com/lecture/model/Book.class
+com/lecture/service/Service.class
+com/lecture/resource/BookResource.class
+com/lecture/model/Library.class
+com/lecture/service/ServiceInterface.class
